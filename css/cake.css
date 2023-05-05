@@ -310,8 +310,8 @@ html, body {
 .happy {
     position: absolute;
     opacity:0;
-    width: 230px;
-    height: 137px;
+    width: 250px;
+    height: 200px;
     overflow: hidden;
     left: 50%;
     margin-left: -115px;
