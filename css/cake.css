@@ -310,12 +310,12 @@ html, body {
 .happy {
     position: absolute;
     opacity:0;
-    width: 250px;
-    height: 200px;
+    width: 1000px;
+    height: 450px;
     overflow: hidden;
     left: 50%;
-    margin-left: -115px;
-    top: 30%;
+    margin-left: -370px;
+    top: 20%;
 
 
     animation-delay: 0s;
